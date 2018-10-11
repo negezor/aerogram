@@ -1,6 +1,6 @@
 {
 	"name": "aerogram",
-	"version": "0.0.0.alpha-0",
+	"version": "0.0.0-alpha.0",
 	"description": "Modern Telegram API SDK for Node.js",
 	"license": "MIT",
 	"author": {
