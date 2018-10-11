@@ -1,0 +1,37 @@
+{
+	"name": "aerogram",
+	"version": "0.0.0.alpha-0",
+	"description": "Modern Telegram API SDK for Node.js",
+	"license": "MIT",
+	"author": {
+		"name": "Vladlen (Negezor)",
+		"email": "negezor@gmail.com"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/negezor/aerogram.git"
+	},
+	"homepage": "https://github.com/negezor/aerogram#readme",
+	"bugs": "https://github.com/negezor/aerogram/issues",
+	"keywords": [
+		"telegram",
+		"api",
+		"sdk",
+		"bot",
+		"node",
+		"js",
+		"es6",
+		"es2015"
+	],
+	"files": [
+		"lib"
+	],
+	"main": "lib/index",
+	"module": "lib/index.mjs",
+	"engines": {
+		"node": ">=8.0.0"
+	},
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	}
+}
